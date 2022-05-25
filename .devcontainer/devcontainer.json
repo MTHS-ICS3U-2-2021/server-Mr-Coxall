@@ -20,7 +20,8 @@
 		"ms-vscode.cmake-tools",
 		"ms-python.vscode-pylance",
 		"ms-python.python",
-		"hediet.vscode-drawio"
+		"hediet.vscode-drawio",
+		"oderwat.indent-rainbow"
 	],
 
 	// Uncomment the next line to use 'postCreateCommand' to run commands after the container is created.
