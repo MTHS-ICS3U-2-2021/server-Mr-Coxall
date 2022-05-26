@@ -20,9 +20,7 @@
 		"ms-python.vscode-pylance",
 		"ms-python.python",
 		"hediet.vscode-drawio",
-		"oderwat.indent-rainbow",
-		"MS-vsliveshare.vsliveshare-pack",
-		"VisualStudioExptTeam.vscodeintellicode"
+		"oderwat.indent-rainbow"
 	],
 
 	// Uncomment the next line to use 'postCreateCommand' to run commands after the container is created.
