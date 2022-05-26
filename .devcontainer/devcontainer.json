@@ -12,6 +12,7 @@
 	// Set *default* container specific settings.json values on container create.
 	"settings": {
 		"python.linting.enabled": true,
+		"python.defaultInterpreterPath": "/usr/local/python/bin/python",
 		"C_Cpp.autocomplete": "Enabled",
 		"C_Cpp.codeFolding": "Disabled",
 		"C_Cpp.dimInactiveRegions": false,
