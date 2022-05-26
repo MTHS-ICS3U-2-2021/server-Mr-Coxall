@@ -21,6 +21,8 @@
 		"editor.folding": false,
 		"editor.foldingHighlight": false,
 		"editor.matchBrackets": "near",
+		// Controls if pressing tab inserts the best suggestion and if tab cycles through other suggestions
+		"editor.tabCompletion": "on",
 		"files.trimTrailingWhitespace": true,
 		"git.autofetch": false
 	},
