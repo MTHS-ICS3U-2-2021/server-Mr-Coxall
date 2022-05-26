@@ -30,8 +30,7 @@
 		"ms-python.python",
 		"hediet.vscode-drawio",
 		"oderwat.indent-rainbow",
-		"ms-vsliveshare.vsliveshare-pack",
-		"vsls-contrib.gitdoc"
+		"ms-vsliveshare.vsliveshare"
 	],
 
 	// Uncomment the next line to use 'postCreateCommand' to run commands after the container is created.
