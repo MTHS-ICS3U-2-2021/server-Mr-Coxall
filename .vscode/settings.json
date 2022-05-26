@@ -1,4 +1,10 @@
 {
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
   "files.associations": {
     "array": "cpp",
     "atomic": "cpp",
