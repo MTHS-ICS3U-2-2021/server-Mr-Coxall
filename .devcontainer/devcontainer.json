@@ -11,16 +11,27 @@
 
 	// Set *default* container specific settings.json values on container create.
 	"settings": {
-		"python.linting.enabled": true
+		"python.linting.enabled": true,
+		"C_Cpp.autocomplete": "Enabled",
+		"C_Cpp.codeFolding": "Disabled",
+		"C_Cpp.dimInactiveRegions": false,
+    "C_Cpp.enhancedColorization": "Enabled",
+		"editor.folding": false,
+		"editor.foldingHighlight": false,
+		"editor.matchBrackets": "near",
+		"files.trimTrailingWhitespace": true,
+		"git.autofetch": false,
+		"gitdoc.autoPull": "off"
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"ms-vscode.cpptools",
-		"ms-python.vscode-pylance",
 		"ms-python.python",
 		"hediet.vscode-drawio",
-		"oderwat.indent-rainbow"
+		"oderwat.indent-rainbow",
+		"ms-vsliveshare.vsliveshare-pack",
+		"vsls-contrib.gitdoc"
 	],
 
 	// Uncomment the next line to use 'postCreateCommand' to run commands after the container is created.
