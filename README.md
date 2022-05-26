@@ -10,6 +10,6 @@ Once the CodeSpace is up and running, in the terminal:
 - change directory into the new ICS3U directory (`cd ICS3U`)
 - open CodeSpaces in this new directory (`code .`)
 - a new Codespace will open up, close the old one and move to the new one
-- then setup your GitHub SSH keys (see: https://ics3u.mths.ca/references/github-ssh-keys)
+- then setup your GitHub SSH keys (see: [https://ics3u.mths.ca/references/github-ssh-keys](https://sites.google.com/ocsb.ca/teh-ics3ur/references/github-ssh-keys))
 
 # 🖥️⌨️🖱️🥷
