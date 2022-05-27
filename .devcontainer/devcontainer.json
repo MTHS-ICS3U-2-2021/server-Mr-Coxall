@@ -16,7 +16,7 @@
 		"C_Cpp.autocomplete": "Enabled",
 		"C_Cpp.codeFolding": "Disabled",
 		"C_Cpp.dimInactiveRegions": false,
-        "C_Cpp.enhancedColorization": "Enabled",
+		"C_Cpp.enhancedColorization": "Enabled",
 		"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
 		"editor.folding": false,
 		"editor.foldingHighlight": false,
@@ -24,13 +24,19 @@
 		// Controls if pressing tab inserts the best suggestion and if tab cycles through other suggestions
 		"editor.tabCompletion": "on",
 		"files.trimTrailingWhitespace": true,
-		"git.autofetch": false
+		"git.autofetch": false,
+		"workbench.preferredDarkColorTheme": "Default Dark+",
+		"workbench.preferredLightColorTheme": "Default Light+",
+		"workbench.startupEditor": "none",
+		"workbench.statusBar.visible": true,
+		"workbench.tips.enabled": false,
+		"workbench.welcomePage.walkthroughs.openOnInstall": false
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"ms-python.python",
-		"ms-vscode.cpptools-extension-pack",
+		"ms-vscode.cpptools",
 		"hediet.vscode-drawio",
 		"oderwat.indent-rainbow",
 		"ms-vsliveshare.vsliveshare"
