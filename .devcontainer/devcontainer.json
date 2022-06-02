@@ -23,8 +23,16 @@
 		"editor.matchBrackets": "near",
 		// Controls if pressing tab inserts the best suggestion and if tab cycles through other suggestions
 		"editor.tabCompletion": "on",
+		"editor.bracketPairColorization.enabled": true,
+		"editor.guides.bracketPairs":"active",
+		"editor.fontSize": 20,
+		"terminal.integrated.fontSize": 20,
+		"terminal.integrated.fontFamily": "Comic Mono, monospace",
 		"files.trimTrailingWhitespace": true,
 		"git.autofetch": false,
+		"prettier.semi": false,
+		"python.formatting.blackArgs": ["--line-length", "120"],
+		"python.formatting.provider": "black",
 		"workbench.preferredDarkColorTheme": "Default Dark+",
 		"workbench.preferredLightColorTheme": "Default Light+",
 		"workbench.startupEditor": "none",
@@ -39,7 +47,8 @@
 		"ms-vscode.cpptools",
 		"hediet.vscode-drawio",
 		"oderwat.indent-rainbow",
-		"ms-vsliveshare.vsliveshare"
+		"ms-vsliveshare.vsliveshare",
+		"streetsidesoftware.code-spell-checker"
 	],
 
 	// Uncomment the next line to use 'postCreateCommand' to run commands after the container is created.
