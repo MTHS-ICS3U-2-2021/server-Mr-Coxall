@@ -56,6 +56,9 @@ mkdir ~/ICS3U
 # copy over the .vscode directory into it
 cp -r .vscode ~/ICS3U/.vscode
 
+# update the .bashrc to add in aliases for ll, ..
+cp .bashrc ~/.bashrc
+
 # change into the ICS3U directory and then open Codespaces in there
 cd ~/ICS3U
 code .
