@@ -49,10 +49,12 @@ echo "When it does, close this orginial one and use the new Codespace window."
 echo "When ready, press any key."
 read  any_key
 
-# copy over the .vscode directory
-cp -r .vscode ~/.vscode
-
-# create an ICS3U directory in the root and then open Codespaces in there
+# create an ICS3U directory in the root directory
 mkdir ~/ICS3U
+
+# copy over the .vscode directory into it
+cp -r .vscode ~/ICS3U/.vscode
+
+# change into the ICS3U directory and then open Codespaces in there
 cd ~/ICS3U
 code .
