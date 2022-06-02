@@ -29,6 +29,7 @@ cat ~/.ssh/id_ed25519.pub
 
 echo ""
 echo "Please copy and paste the above key into your GitHub SSH Keys."
+echo "(at: https://github.com/settings/keys)"
 echo "Once done, press any key."
 read  any_key
 
